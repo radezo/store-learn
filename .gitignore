@@ -1,0 +1,7 @@
+#ignore files
+.env
+.env.test
+/var
+/public/bundles
+/vendor
+
