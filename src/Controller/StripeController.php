@@ -3,7 +3,7 @@
 namespace App\Controller;
 
 use Stripe\Stripe;
-use App\Classe\Cart;
+use App\Service\Cart;
 use App\Entity\Order;
 use App\Entity\Product;
 use Stripe\Checkout\Session;

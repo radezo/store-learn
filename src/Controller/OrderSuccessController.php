@@ -2,8 +2,8 @@
 
 namespace App\Controller;
 
-use App\Classe\Cart;
-use App\Classe\Mail;
+use App\Service\Cart;
+use App\Service\Mail;
 use App\Entity\Order;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Routing\Annotation\Route;
